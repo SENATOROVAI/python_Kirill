@@ -1,6 +1,6 @@
 from random import randint
 a = []
-for i in range(20):
+for i in range(5):
     a.append(randint(1, 50))
 print('start', a)
 def insertionSort(list):
