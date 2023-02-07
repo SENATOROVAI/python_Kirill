@@ -1,7 +1,7 @@
 06_02_23
 
 algo:
-1) заполнить всё \algorithms\homework\lesson1\приложение\graph.png,  хотя бы первую строку lesson1-table.png и lesson1-time-run-1.png.
+1) заполнить всё \algorithms\files\graph.png,  хотя бы первую строку lesson1-table.png и lesson1-time-run-1.png.
 2) Написать в виде нотации BigO логарифмическое и линейное время (просто написать О(здесь что-то)) потом, нарисовать соответствующие графики. Фото сюда \algorithms
 3) сделать \algorithms\exercise1.py
 4) Зарегаться и выполнить 
