@@ -6,7 +6,7 @@ algo:
 3) сделать \algorithms\exercise1.py
 4) Зарегаться и выполнить 
 https://projecteuler.net/problem=1, 
-ответ сюда \python\euler.py  
+ответ сюда \algorithms\euler.py  
 
 вот математическое решение \algorithms\files\photo_2023-02-07_19-50-00.jpg, 
 по возможности тоже пиши математическое, 
@@ -16,14 +16,16 @@ https://projecteuler.net/problem=1,
 https://codeforces.com/problemset/problem/1409/A,
 https://codeforces.com/problemset/problem/1397/A
 https://codeforces.com/problemset/problem/1398/A
-ответ сюда \python\codeforces.py
+ответ сюда \algorithms\codeforces.py
 
 Python:
 1) выполнить \python\exercise2.py
 math:
-1) Что такое комбинаторика? Где в программировании применяется?
+1) Чем отличается знак включение от вхождения?
+2) Что такое комбинаторика? Где в программировании применяется?
 ответ в виде фотки или текстового документа \discrete_math
 Посмотреть раздел в нашей книге по дискретке.
+
 
 УДАЧИ! :)
 
