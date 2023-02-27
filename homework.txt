@@ -39,3 +39,13 @@ https://openweathermap.org/
 
 Ответ \python\homework_api_weather.py
 
+26/02/23
+
+Python:
+1)Выполнить \python\exercise3.py
+ALGO:
+1) алгоритм дейкстры,зачем?
+2) поиск в ширину, зачем?
+3) по желанию, посмотреть симплекс-метод (линейное программирование)
+
+ответы \algorithms\hw.py
