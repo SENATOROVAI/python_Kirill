@@ -8,3 +8,4 @@
 # 8.Write a function that takes two lists as input and returns a list containing the common elements of both lists.
 # 9.Implement a program that takes a list of numbers and returns the average, median, and mode of the numbers.
 # 10.Write a program that prompts the user to enter a date in the format "YYYY-MM-DD" and calculates the number of days between that date and the current date.
+
