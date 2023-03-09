@@ -61,4 +61,31 @@ ALGO:
 7) В чём разница переменных класса и методов?
 8) Создай пустой класс
 9) Создать класс который выводит хеллоу ворлд 
-10) переименуй атрибут в классе calc в _result, как это связано с инкапсуляцией? кстати, теперь _result стал немного быстрее.	
+10) переименуй атрибут в классе calc в _result, как это связано с инкапсуляцией? кстати, теперь _result стал немного быстрее.
+
+	
+08/03/23
+
+python:
+
+РЕАЛИЗОВАТЬ
+1)class Circle, должен считать площадь круга
+2)class Car написать машину своей мечты с атрибутами и методами(минимум 2 метода)
+3)class Book, любимая книга, метод должен возвращать инфу о ней
+4)class Dog, 1 метод - лай, два свойства, парода и имя
+5)class Person, 3 свойства, имя, возраст, список друзей, реализовать методы  
+def say_hello, говорит "HI имя, возраст"
+def add_friend добавляет друзей
+def remove_friend удаляет друзей в списке
+и добавить вот этот метод
+def greet_friends(self):
+        if len(self.friends) == 0:
+            print(f"{self.name} has no friends.")
+        elif len(self.friends) == 1:
+            print(f"{self.name} says hello to {self.friends[0].name}.")
+        else:
+            friend_names = [f.name for f in self.friends]
+            last_friend = friend_names.pop()
+            print(f"{self.name} says hello to {', '.join(friend_names)} and {last_friend}.")
+
+\python\homework3.ipynb
