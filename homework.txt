@@ -89,3 +89,41 @@ def greet_friends(self):
             print(f"{self.name} says hello to {', '.join(friend_names)} and {last_friend}.")
 
 \python\homework3.ipynb
+
+11/03/23
+python:
+
+
+1) ScatterPlot: a class that creates a scatter plot with given x and y values.
+
+вот решение по 1:
+выполнить все классы в таком стиле (два метода, конструктор и плот)
+
+import matplotlib.pyplot as plt
+
+class ScatterPlot:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+        
+    def plot(self):
+        plt.scatter(self.x, self.y)
+        plt.show()
+
+
+2) BarPlot: a class that creates a bar plot with given x and y values.
+3) Histogram: a class that creates a histogram with given data values.
+4) PieChart: a class that creates a pie chart with given data values.
+5) StackedBarPlot: a class that creates a stacked bar plot with given x and y values.
+HeatMap: a class that creates a heatmap with given data values.
+6) HeatMap: a class that creates a heatmap with given data values.
+python
+7) StackedAreaPlot: a class that creates a stacked area plot with given x and y values.
+8) BoxPlot: a class that creates a box plot with given data values.
+9) ViolinPlot: a class that creates a violin plot with given data values.
+10) удачи) 
+
+нужно будет подёргать либу матплотлиб)))
+
+ответ \python\homework4.ipynb
+
