@@ -1,4 +1,4 @@
-# list1 = {*range(1,10,2)}
+# list1 = {*range(1,10,2)} # Обясни что значит звездачка ?
 
 # print(list1)
 #dict = {x: x**3 for x in range (2,11,2)}
