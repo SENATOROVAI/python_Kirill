@@ -12,7 +12,8 @@
 #     nums[key] = v
 # print(nums)
 
-# def pretty_print (**kwargs):
+# def pretty_print (**kwargs): Объясни что это ?
+
 #    for a in kwargs:
 #     print(f'{a}:{kwargs[a]}')
 # pretty_print(title="The Matrix", director="Wachowski", year=1999)
